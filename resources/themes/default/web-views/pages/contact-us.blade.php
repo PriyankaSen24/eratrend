@@ -26,7 +26,8 @@
             <div class="col-lg-6">
                 <div class="card">
                     <div class="card-body for-send-message">
-                        <h2 class="h4 mb-4 text-center font-semibold text-black">{{translate('send_us_a_message')}}</h2>
+                        <h2 class="h4 mb-4 text-center font-semibold text-black">{{translate('Hey send_us_a_message')}}
+                        </h2>
                         <form action="{{route('contact.store')}}" method="POST" id="getResponse">
                             @csrf
                             <div class="row">

@@ -13,7 +13,7 @@
         <div class="container">
             <div>
                 <div class="topbar-text dropdown d-md-none ms-auto">
-                    <a class="topbar-link direction-ltr test" href="tel: {{ $web_config['phone'] }}">
+                    <a class="topbar-link direction-ltr" href="tel: {{ $web_config['phone'] }}">
                         <i class="fa fa-phone"></i> {{ $web_config['phone'] }}
                     </a>
                 </div>

@@ -1,6 +1,6 @@
 @extends('layouts.front-end.app')
 
-@section('title', translate('Hey about_us'))
+@section('title', translate('about_us'))
 
 @section('content')
     <div class="container for-container rtl">

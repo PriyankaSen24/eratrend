@@ -1,6 +1,6 @@
 @extends('layouts.front-end.app')
 
-@section('title', translate('Heycontact_us'))
+@section('title', translate('contact_us'))
 
 @push('css_or_js')
     <link rel="stylesheet"

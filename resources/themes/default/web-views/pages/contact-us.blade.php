@@ -12,7 +12,7 @@
     <div class="container rtl">
         <div class="row">
             <div class="col-md-12 contact-us-page sidebar_heading text-center mb-2">
-                <h1 class="h3 mb-0 headerTitle">git test contact</h1>
+                <h1 class="h3 mb-0 headerTitle">{{translate('contact_us')}}</h1>
             </div>
         </div>
     </div>
